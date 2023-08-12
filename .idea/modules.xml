@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/orgs-cesta.iml" filepath="$PROJECT_DIR$/.idea/orgs-cesta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OrgsHamper.iml" filepath="$PROJECT_DIR$/.idea/OrgsHamper.iml" />
     </modules>
   </component>
 </project>
