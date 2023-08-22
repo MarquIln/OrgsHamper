@@ -13,11 +13,11 @@ export default function Texto({ children, style }) {
 
 const estilos = StyleSheet.create({
   texto: {
-    fontFamily: 'MontserratRegular',
+    fontFamily: 'LatoRegular',
     fontWeight: 'normal',
   },
   textoNegrito: {
-    fontFamily: 'MontserratBold',
+    fontFamily: 'LatoBold',
     fontWeight: 'normal',
   }
 });
